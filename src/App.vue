@@ -34,7 +34,7 @@ const isLoading = ref(false);
 const getData = async () => {
   try {
     isLoading.value = true;
-    const response = await fetch('/content.json');
+    const response = await fetch('./content.json');
     data.value = await response.json();
   } catch (error) {
     console.error('Error fetching data:', error);
