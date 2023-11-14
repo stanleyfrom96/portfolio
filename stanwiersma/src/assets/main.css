@@ -1,0 +1,11 @@
+@import './base.css';
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+  margin-top: 1rem;
+}
+
+.tag {color: rgb(102, 102, 102)}

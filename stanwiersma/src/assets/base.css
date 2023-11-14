@@ -1,0 +1,51 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+ 
+}
+
+/* semantic color variables for this project */
+:root {
+  
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+html {
+  background-color: black;
+  color: orangered;
+  padding: 1rem;
+}
+
+a {
+  color: cyan;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+ul {
+  padding-inline-start: 0;
+}
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2rem;
+}
+
+nav a {
+    color: orangered !important;
+}
