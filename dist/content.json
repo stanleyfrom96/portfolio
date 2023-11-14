@@ -1,0 +1,143 @@
+{
+    "works": {
+        "and-remember-i-will-be-with-you-always-even-until-the-end-of-time": {
+            "title": "...and remember, I will be with you always, even until the end of time.",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=yxmVR2Ahb40&t=1839s&ab_channel=sssttaannn",
+            "tags": ["touchdesigner", "youtube api", "live streaming", "socket.io", "chatbox"]
+        },
+        "moving-still": {
+            "title": "moving still av",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=U9FtuHJfgu8&t=1741s&ab_channel=sssttaannn",
+            "tags": ["ip cameras", "mix", "editing"]
+        }
+    },
+    "sites": {
+        "fokke-de-wit": {
+            "title": "fokke de wit",
+            "content": "this is content",
+            "year": "2023",
+            "url": "https://fokkedewit.nl/",
+            "tags": ["web development", "wordpress"]
+        },
+        "knekelhuis": {
+            "title": "knekelhuis",
+            "content": "this is content",
+            "year": "2022",
+            "url": "https://knekelhuis.nl/",
+            "tags": ["web development", "wordpress"]
+        },
+        "puer-parasitus": {
+            "title": "puer parasitus",
+            "content": "this is content",
+            "year": "2021",
+            "url": "https://puerparasitus.com/",
+            "tags": ["cargo"]
+        },
+        "kanaal40": {
+            "title": "kanaal40",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://kanaal40.com/",
+            "tags": ["web development", "glitch.me", "sms box", "mtv", "socket.io"]
+        }
+    },
+    "projects": {
+        "not-at-home": {
+            "title": "not at home",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://not-at-home.nl/",
+            "tags": ["live streaming", "raspberry pi", "stream server", "diy"]
+        },
+        "donker-tapes": {
+            "title": "donker tapes",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/@donkertapes7020",
+            "tags": ["platform", "mixes", "events", "audiovisual"]
+        },
+        "daisy-daisy": {
+            "title": "daisy daisy",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=TIO_qj8AHvE&ab_channel=sssttaannn",
+            "tags": ["music", "live set", "synthesizers", "production"]
+        },
+        "supernature": {
+            "title": "supernature",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=ZovYx64ZRWo&ab_channel=sssttaannn",
+            "tags": ["platform", "video", "curation"]
+        }
+    },
+    "videos": {
+        "real-farmer-first-tray": {
+            "title": "first tray by real farmer",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=a9sQsANLrHk&ab_channel=RealFarmer",
+            "tags": ["camera", "vhs", "tube camera"]
+        },
+        "global-charming-heal": {
+            "title": "heal by global charming",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=DVCu0jEiojk&ab_channel=globalcharming",
+            "tags": ["3d animation", "blender", "3d modeling", "texturing", "music video"]
+        },
+        "global-charming-mediocre-brutal": {
+            "title": "mediocre, brutal by global charming",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=d4HClJ19CYI&t=216s&ab_channel=globalcharming",
+            "tags": ["touchdesigner", "lighting", "interactive", "camera", "tube camera"]
+        },
+        "global-charming-front": {
+            "title": "global charming live",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=m4p1i64O2Ls&ab_channel=Front",
+            "tags": ["camera"]
+        },
+        "dance-system-so-good": {
+            "title": "so good by good times ahead",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=N6rFnElOXgs&ab_channel=MonstercatUncaged",
+            "tags": ["texturing", "blender"]
+        },
+        "dance-system-daft-punk": {
+            "title": "daft punk tribute mix by dance system",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=qMVh2DIBNvg&t=2s&ab_channel=SystemRecords",
+            "tags": ["blender", "composition", "texturing", "3d modeling"]
+        },
+        "jean-baptiste-castel-camera2": {
+            "title": "camera. 2 by jean baptiste castel",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.gast.studio/our-work/camera1",
+            "tags": ["blender", "composition"]
+        },
+        "our-brave-new-world": {
+            "title": "our brave new world",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=qMVh2DIBNvg&t=2s&ab_channel=SystemRecords",
+            "tags": ["sound design"]
+        },
+        "front-le-guess-who-private-banking": {
+            "title": "Front & LGW present: Private Banking",
+            "content": "this is content",
+            "year": "2020",
+            "url": "https://www.youtube.com/watch?v=yL8n8xc2D1A&ab_channel=LeGuessWho%3F",
+            "tags": ["camera"]
+        }
+    }
+}
