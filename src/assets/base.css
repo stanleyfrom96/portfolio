@@ -49,3 +49,12 @@ ul {
 nav a {
     color: orangered !important;
 }
+
+input:checked + label {
+  color: blue;
+}
+
+.categories {
+  display: flex;
+  gap: 1rem;
+}
