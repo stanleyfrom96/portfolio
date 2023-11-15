@@ -3,16 +3,16 @@
     "category": "works",
     "title": "and remember I will be with you always, even until the end of time",
     "slug": "and-remember-i-will-be-with-you-always-even-until-the-end-of-time",
-    "content": "this is content",
+    "content": "Graduation project, made entirely in touchdesigner. In the contemporary world, online content can be consulted instantly. It became more accessible than the physical world and formed a hyperreal, collective mind in which rare and unique experiences are predominant. In this installation, the viewer is immersed in a collection of viral found-footage videos that picture the beauty of ‘true’ nature, shot by a someone that hopelessly hides behind the screen, seeking for the comfort of an anonymous spectator.",
     "year": "2020",
     "url": "https://www.youtube.com/watch?v=yxmVR2Ahb40&t=1839s&ab_channel=sssttaannn",
-    "tags": ["touchdesigner", "youtube api", "live streaming", "socket.io", "chatbox"]
+    "tags": ["touchdesigner", "youtube api", "found footage", "live streaming", "socket.io", "chatbox"]
   },
   {
     "category": "works",
     "title": "moving still av",
     "slug": "moving-still-av",
-    "content": "this is content",
+    "content": "DJ mix accompanied by video’s taken from publicly available IP cams throughout the Netherlands, recorded in October 2020.",
     "year": "2020",
     "url": "https://www.youtube.com/watch?v=U9FtuHJfgu8&t=1741s&ab_channel=sssttaannn",
     "tags": ["ip cameras", "mix", "edit"]
@@ -21,16 +21,16 @@
     "category": "sites",
     "title": "fokke de wit",
     "slug": "fokke-de-wit",
-    "content": "this is content",
+    "content": "Design and development of a portfolio website for Fokke de Wit",
     "year": "2023",
     "url": "https://fokkedewit.nl/",
-    "tags": ["web development", "wordpress"]
+    "tags": ["web development", "web design", "wordpress"]
   },
   {
     "category": "sites",
     "title": "knekelhuis",
     "slug": "knekelhuis",
-    "content": "this is content",
+    "content": "Co-design (with heleen swart) and development of a portfolio website for dutch label Knekelhuis Records ",
     "year": "2022",
     "url": "https://knekelhuis.nl/",
     "tags": ["web development", "wordpress"]
@@ -39,7 +39,7 @@
     "category": "sites",
     "title": "puer parasitus",
     "slug": "puer-parasitus",
-    "content": "this is content",
+    "content": "assistance on building a cargo site",
     "year": "2021",
     "url": "https://puerparasitus.com/",
     "tags": ["cargo"]
@@ -48,44 +48,53 @@
     "category": "sites",
     "title": "kanaal40",
     "slug": "kanaal40",
-    "content": "this is content",
+    "content": "Corona project for Garage Noord on building a website inspired by early TMF and MTV tv shows called https://kanaal40.com/. On the site users could join a chatbox by sending a text to the kanaal40 phone number to see it appear in the chat. Website is unfortunately not online anymore and now replaced by a new site called https://kanaal40.tv/",
     "year": "2020",
-    "url": "https://kanaal40.com/",
+    "url": "https://github.com/stanleyfrom96/Kanaal-40-Site",
     "tags": ["web development", "glitch.me", "sms box", "mtv", "socket.io"]
   },
   {
     "category": "projects",
     "title": "not at home",
     "slug": "not-at-home",
-    "content": "this is content",
-    "year": "2020",
+    "content": "A new project, still in progress. The site will be online soon!",
+    "year": "2023",
     "url": "https://not-at-home.nl/",
     "tags": ["live streaming", "raspberry pi", "stream server", "diy"]
   },
   {
     "category": "projects",
-    "title": "donker tapes",
-    "slug": "donker-tapes",
-    "content": "this is content",
+    "title": "donker tapes field trip",
+    "slug": "donker-tapes-field-trip",
+    "content": "DJ mix with Heleen Swart as part of our monthly radioshow on Stranded FM called Donker Radio. This project later developed into Donker Tapes, an experimental platform for music & arts. We had multiple live evenings at Garage Noord and some experimental live streams on our own site, which looked different every time ;p",
     "year": "2020",
-    "url": "https://www.youtube.com/@donkertapes7020",
-    "tags": ["platform", "mixes", "events", "audiovisual"]
+    "url": "https://www.youtube.com/watch?v=xku0kvDSA6Q&t=2702s",
+    "tags": ["platform", "mix", "home videos", "events", "audiovisual"]
+  },
+  {
+    "category": "projects",
+    "title": "ly foulidis at donker tapes",
+    "slug": "ly-foulidis-at-donker-tapes",
+    "content": "Curated live show by LY Foulidis, recorded in our then-home in Wormer, NL. Live mixed on a cube-tv age videomixer and streamed to an interactive site where you could draw on the video.",
+    "year": "2020",
+    "url": "https://www.youtube.com/watch?v=YbsSNnwnD-M&t=1949s",
+    "tags": ["feedback", "videomixer", "music", "audiovisual"]
   },
   {
     "category": "projects",
     "title": "daisy daisy",
     "slug": "daisy-daisy",
-    "content": "this is content",
-    "year": "2020",
-    "url": "https://www.youtube.com/watch?v=TIO_qj8AHvE&ab_channel=sssttaannn",
+    "content": "Registration of a live show of my old band Daisy Daisy in Kapitaal in 2021",
+    "year": "2021",
+    "url": "https://www.youtube.com/watch?v=yjyQFhaU1u0&t=819s&ab_channel=KAPITAAL",
     "tags": ["music", "live set", "synthesizers", "production"]
   },
   {
     "category": "projects",
     "title": "supernature",
     "slug": "supernature",
-    "content": "this is content",
-    "year": "2020",
+    "content": "Launch video of my first concept called Supernature. With this video we announced a series of art launches.",
+    "year": "2018",
     "url": "https://www.youtube.com/watch?v=ZovYx64ZRWo&ab_channel=sssttaannn",
     "tags": ["platform", "video", "curation"]
   },
@@ -93,7 +102,7 @@
     "category": "videos",
     "title": "first tray by real farmer",
     "slug": "first-tray-by-real-farmer",
-    "content": "this is content",
+    "content": "Videoclip for Real Farmer, shot on a VHS tube camera",
     "year": "2020",
     "url": "https://www.youtube.com/watch?v=a9sQsANLrHk&ab_channel=RealFarmer",
     "tags": ["camera", "vhs", "tube camera"]
@@ -102,8 +111,8 @@
     "category": "videos",
     "title": "heal by global charming",
     "slug": "heal-by-global-charming",
-    "content": "this is content",
-    "year": "2020",
+    "content": "Entirely built from scratch, all modeled, textured and animated by myself, with help from Jilles and Sara",
+    "year": "2021",
     "url": "https://www.youtube.com/watch?v=DVCu0jEiojk&ab_channel=globalcharming",
     "tags": ["3d animation", "blender", "3d modeling", "texturing", "music video"]
   },
@@ -163,11 +172,47 @@
   },
   {
     "category": "videos",
-    "title": "Front & LGW present: Private Banking",
+    "title": "front & lgw present: private banking",
     "slug": "front-lgw-present-private-banking",
     "content": "this is content",
     "year": "2020",
     "url": "https://www.youtube.com/watch?v=yL8n8xc2D1A&ab_channel=LeGuessWho%3F",
     "tags": ["camera"]
+  },
+  {
+    "category": "audio",
+    "title": "glooi",
+    "slug": "glooi",
+    "content": "this is content",
+    "year": "2023",
+    "url": "audio/glooi.mp3",
+    "tags": ["snippet", "audio", "synthesizers"]
+  },
+  {
+    "category": "audio",
+    "title": "opening",
+    "slug": "opening",
+    "content": "this is content",
+    "year": "2023",
+    "url": "audio/opening.mp3",
+    "tags": ["snippet", "audio", "synthesizers"]
+  },
+  {
+    "category": "audio",
+    "title": "bird on the floor",
+    "slug": "bird-on-the-floor",
+    "content": "this is content",
+    "year": "2023",
+    "url": "audio/tape.mp3",
+    "tags": ["snippet", "audio", "synthesizers"]
+  },
+  {
+    "category": "audio",
+    "title": "moving",
+    "slug": "moving",
+    "content": "this is content",
+    "year": "2020",
+    "url": "audio/moving.mp3",
+    "tags": ["snippet", "audio", "synthesizers"]
   }
 ]
