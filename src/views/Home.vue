@@ -14,7 +14,7 @@
         </label>
       </div>
 
-      <h3>works</h3>
+      <h3>portfolio</h3>
       <ul class="works">
         <li v-for="(work, index) in filteredData" :key="work.slug" class="work">
           <RouterLink :to="getProjectRoute(work.slug)">
